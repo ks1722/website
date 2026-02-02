@@ -9,7 +9,7 @@ website:
         text: Home
       - about.qmd
       - href: pset3.qmd
-        text: Problem Set 3
+        text: Problem Set 3 Figure
 
 format:
   html:
