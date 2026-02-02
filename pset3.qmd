@@ -1,0 +1,5 @@
+---
+title: "Pset 3 Grid Plot"
+---
+
+![](NBA_Grid_Plot_Separate.jpg)
