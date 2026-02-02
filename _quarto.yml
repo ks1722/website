@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: pset3.qmd
+        text: Problem Set 3
 
 format:
   html:
